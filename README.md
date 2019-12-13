@@ -1,2 +1,2 @@
 # radula
-glaucus's package manager
+glaucus's cerata manager
